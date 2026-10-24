@@ -1,0 +1,20 @@
+﻿assumption,value,status,evidence,impact
+entry_price,close_D + 0.10% slip,ASSUMED,none; backtest assumption,optimistic if close moves 14:00-15:00
+exit_price,next_open - 0.10% slip; gap-down waits for close/14:00,ASSUMED,engine logic; no fills,gap-down can be worse
+brokerage,0.05%/side in C1; 0.10%/side in C2,UNVERIFIED,no broker document,C2 drops to 4.39M/6.01M
+stamp_duty,0.05%/side,UNVERIFIED,no broker document,cost sensitivity
+third_party,0.03%/side,UNVERIFIED,no broker document,cost sensitivity
+fixed_fee,2 EGP/order,UNVERIFIED,no broker document,small at 300k; larger at small capital
+slippage,0.10%/side,UNVERIFIED,L2 2026 median spread ~66 bps; not fitted,x2 -> 2.15M
+market_impact,none beyond slippage,NOT_MODELED,no historical depth,capacity may be overstated
+settlement,"T+2, reuse of unsettled proceeds",UNVERIFIED,no statement,no reuse -> 1.19M
+order_type,not specified; assumes fill at close/open,UNVERIFIED,no Thndr document,execution not proven
+auction,not modeled,NOT_AVAILABLE,no auction data,fill price/size unknown
+limit_up_filter,9.5% proxy; skip 120 at close,PROXY,code,0 selected limit-up
+limit_down_sell,not modeled,NOT_MODELED,none,losses may be understated
+delay,0 min,ASSUMED,60m bars only,5/15/30 NOT_AVAILABLE
+L2_history,"2026 only, MCRO/AALR",NOT_AVAILABLE,snapshots,cannot validate 2022-2026
+actual_fills,none,NOT_AVAILABLE,no statements,no live validation
+universe,current 69 T1 names,SURVIVORSHIP_BIAS,current list,"bias direction unknown, likely positive"
+calendar,derived from prices,DERIVED,calendar.csv,session count may differ
+EGX30,not available,NOT_AVAILABLE,4 rows in 2026,market comparison uses T1 proxy

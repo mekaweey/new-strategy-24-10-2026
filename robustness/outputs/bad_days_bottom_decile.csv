@@ -1,0 +1,2 @@
+﻿definition,n_nights,avg_strategy_ret_pct,median_strategy_ret_pct,win_rate_pct,worst_strategy_ret_pct,total_net
+T1 equal-weight prior return bottom decile (<= -0.00979),90,0.633098974054644,0.46815165489225596,77.77777777777779,-3.867744305467618,1026688.7437621977

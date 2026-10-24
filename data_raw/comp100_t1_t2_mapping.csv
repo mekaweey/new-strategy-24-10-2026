@@ -1,0 +1,70 @@
+﻿symbol,description,match_score,excel_num,settlement,board,excel_company_en,excel_company_ar,isin,match_method
+AALR,General Co. for Land Reclamation Development & Reconstruction,1.0,129,T0 / T1 / T2,Medium Activity | متوسط النشاط,"General Company For Land Reclamation,Development & Reconstruction",العامة لاستصلاح الاراضي و التنمية و التعمير,EGS01081C016,fuzzy
+ACAMD,Arab Co. for Asset Management & Development,,186,T0 / T1 / T2,Medium Activity | متوسط النشاط,Arab Co. for Asset Management And Development,الشركة العربية لادارة وتطوير الاصول,EGS72AQ1C016,manual
+ADCI,Arab Pharmaceuticals,1.0,148,T0 / T1 / T2,Medium Activity | متوسط النشاط,Arab Pharmaceuticals,العربية للادوية والصناعات الكيماوية,EGS38321C013,fuzzy
+ADIB,Abu Dhabi Islamic Bank-Egypt,1.0,24,T0 / T1 / T2,Most Active | الأكثر نشاطا,Abu Dhabi Islamic Bank- Egypt,مصرف أبو ظبي الأسلامي- مصر,EGS60111C019,fuzzy
+AIFI,Atlas for Investment & Food Industries SAE,1.0,131,T0 / T1 / T2,Medium Activity | متوسط النشاط,Atlas For Investment and Food Industries,اطلس للاستثمار والصناعات الغذائية,EGS071L1C018,fuzzy
+AJWA,Ajwa for Food Industries Co. Egypt,1.0,203,T0 / T1 / T2,Medium Activity | متوسط النشاط,AJWA for Food Industries company Egypt,اجواء للصناعات الغذائية - مصر,EGS30211C014,fuzzy
+AMES,Alexandria New Medical Center Co.,,184,T0 / T1 / T2,Medium Activity | متوسط النشاط,Alexandria New Medical Center,الاسكندرية للخدمات الطبية - المركز الطبى الجديد - الاسكندرية,EGS72081C010,manual
+AMOC,Alexandria Mineral Oils Co.,1.0,31,T0 / T1 / T2,Most Active | الأكثر نشاطا,Alexandria Mineral Oils Company,الاسكندرية للزيوت المعدنية,EGS380P1C010,fuzzy
+ARCC,Arabian Cement Company,1.0,27,T0 / T1 / T2,Most Active | الأكثر نشاطا,Arabian Cement Company,العربية للاسمنت,EGS3C0O1C016,fuzzy
+AREH,Egyptian Real Estate Group,1.0,200,T0 / T1 / T2,Medium Activity | متوسط النشاط,Egyptian Real Estate Group,المجموعه المصريه العقاريه,EGS65211C012,fuzzy
+ATLC,Al Tawfeek Leasing Company-A.T.LEASE,1.0,78,T0 / T1 / T2,Most Active | الأكثر نشاطا,Al Tawfeek Leasing Company-A.T.LEASE,التوفيق للتأجير التمويلي -أية.تي.ليس,EGS676N1C015,fuzzy
+ATQA,Misr National Steel,,32,T0 / T1 / T2,Most Active | الأكثر نشاطا,Misr National Steel - Ataqa,مصر الوطنية للصلب - عتاقة,EGS3D0C1C018,manual
+AXPH,Alexandria Company for Pharmaceuticals and Chemical Industries,,149,T0 / T1 / T2,Medium Activity | متوسط النشاط,Alexandria Pharmaceuticals,الاسكندرية للادوية والصناعات الكيماوية,EGS38341C011,manual
+CAED,Cairo Educational Services,1.0,185,T0 / T1 / T2,Medium Activity | متوسط النشاط,Cairo Educational Services,القاهرة للخدمات التعليمية,EGS72201C014,fuzzy
+CLHO,Cleopatra Hospital Company,1.0,112,T0 / T1 / T2,Medium Activity | متوسط النشاط,Cleopatra Hospital Company,شركة مستشفي كليوباترا,EGS729J1C018,fuzzy
+COSG,Cairo Oils & Soap,1.0,39,T0 / T1 / T2,Most Active | الأكثر نشاطا,Cairo Oils & Soap,القاهرة للزيوت والصابون,EGS30581C010,fuzzy
+CPCI,Kahira Pharmaceuticals & Chemical Industries Co.,,150,T0 / T1 / T2,Medium Activity | متوسط النشاط,Cairo Pharmaceuticals,القاهرة للادوية والصناعات الكيماوية,EGS38391C016,manual
+CRST,Creast Mark For Contracting And Real Estate Development,1.0,192,T0 / T1 / T2,Medium Activity | متوسط النشاط,Creast Mark For Contracting And Real Estate Development,كرستمارك للمقاولات والتطوير العقاري,EGS23141C012,fuzzy
+EALR,El Arabia for Land Reclamation,1.0,169,T0 / T1 / T2,Medium Activity | متوسط النشاط,El Arabia for Land Reclamation,العربية لاستصلاح الاراضي,EGS65771C015,fuzzy
+EDFM,East Delta Flour Mills Co.,1.0,136,T0 / T1 / T2,Medium Activity | متوسط النشاط,East Delta Flour Mills,مطاحن شرق الدلتا,EGS30351C018,fuzzy
+EFID,Edita Food Industries SAE,1.0,77,T0 / T1 / T2,Most Active | الأكثر نشاطا,Edita Food Industries S.A.E,ايديتا للصناعات الغذائية,EGS305I1C011,fuzzy
+EFIH,e-finance for Digital and Financial Investments S.A.E.,1.0,23,T0 / T1 / T2,Most Active | الأكثر نشاطا,E-finance For Digital and Financial Investments,اي فاينانس للاستثمارات المالية والرقمية,EGS743O1C013,fuzzy
+EGAL,Egypt Aluminum,1.0,11,T0 / T1 / T2,Most Active | الأكثر نشاطا,Egypt Aluminum,مصر للالومنيوم,EGS3E181C010,fuzzy
+EGAS,Egypt Gas Co.,,114,T0 / T1 / T2,Medium Activity | متوسط النشاط,Natural Gas & Mining Project (Egypt Gas),غاز مصر,EGS39011C019,manual
+EHDR,Egyptians Housing Development & Reconstruction,1.0,62,T0 / T1 / T2,Most Active | الأكثر نشاطا,Egyptians Housing Development & Reconstruction,المصريين للاسكان والتنمية والتعمير,EGS65341C017,fuzzy
+EPCO,Egypt for Poultry Co.,1.0,130,T0 / T1 / T2,Medium Activity | متوسط النشاط,Egypt for Poultry,المصرية للدواجن,EGS02211C018,fuzzy
+ETRS,Egyptian Transport And Commercial Services Co. (Egytrans Nosco),,44,T0 / T1 / T2,Most Active | الأكثر نشاطا,Egyptian Transport (EGYTRANS),المصرية لخدمات النقل (ايجيترانس),EGS42051C010,manual
+FAITA,Faisal Islamic Bank of Egypt,,125,T0 / T1 / T2,Medium Activity | متوسط النشاط,Faisal Islamic Bank of Egypt - In US Dollars,بنك فيصل الاسلامي المصري - بالدولار,EGS60322C012,manual
+GIHD,Gharbia Islamic Housing Development,1.0,167,T0 / T1 / T2,Medium Activity | متوسط النشاط,Gharbia Islamic Housing Development,الغربية الاسلامية للتنمية العمرانية,EGS65461C013,fuzzy
+GSSC,General Silos & Storage Co.,1.0,141,T0 / T1 / T2,Medium Activity | متوسط النشاط,General Silos & Storage,العامة للصوامع والتخزين,EGS30441C017,fuzzy
+ICFC,International Co. for Fertilizers & Chemicals,1.0,65,T0 / T1 / T2,Most Active | الأكثر نشاطا,International Company For Fertilizers & Chemicals,الدولية للأسمدة والكيماويات,EGS520D1C015,fuzzy
+IEEC,Industrial & Engineering Enterprises Co.,1.0,49,T0 / T1 / T2,Most Active | الأكثر نشاطا,Industrial & Engineering Enterprises Co.,المشروعات الصناعية والهندسية,EGS22171C010,fuzzy
+IFAP,International Agricultural Products,1.0,57,T0 / T1 / T2,Most Active | الأكثر نشاطا,International Agricultural Products,الدوليه للمحاصيل الزراعيه,EGS07061C012,fuzzy
+INEG,Integrated Engineering Group S.A.E,1.0,214,T0 / T1 / T2,SMEs Tamayuz | تميز,Integrated Engineering Group S.A.E,المجموعة المتكاملة للأعمال الهندسية,EGS3E3B1C014,fuzzy
+INFI,Ismailia National Food Industries,,127,T0 / T1 / T2,Medium Activity | متوسط النشاط,Ismailia National Food Industries (Fodico),الاسماعيلية الوطنية للصناعات الغذائية (فوديكو),EGS01041C010,manual
+ISMA,Ismailia Misr Poultry,1.0,70,T0 / T1 / T2,Most Active | الأكثر نشاطا,Ismailia Misr Poultry,الاسماعيلية مصر للدواجن,EGS02021C011,fuzzy
+ISMQ,Iron & Steel for Mines & Quarries,1.0,36,T0 / T1 / T2,Most Active | الأكثر نشاطا,Iron And Steel for Mines and Quarries,الحديد والصلب للمناجم والمحاجر,EGS102S1C014,fuzzy
+KABO,El Nasr Clothing & Textiles Co.,,75,T0 / T1 / T2,Most Active | الأكثر نشاطا,El Nasr Clothes & Textiles (Kabo),النصر للملابس والمنسوجات - كابو,EGS33061C010,manual
+MBSC,Misr Beni Suef Cement Co. SAE,1.0,153,T0 / T1 / T2,Medium Activity | متوسط النشاط,Misr Beni Suef Cement,مصر بنى سويف للاسمنت,EGS3C371C019,fuzzy
+MCQE,Misr Cement Co. (Qena),1.0,26,T0 / T1 / T2,Most Active | الأكثر نشاطا,Misr Cement (Qena),مصر للاسمنت - قنا,EGS3C391C017,fuzzy
+MCRO,Macro Group Pharmaceutical S.A.E.,,76,T0 / T1 / T2,Most Active | الأكثر نشاطا,Macro Group Pharmaceuticals -Macro Capital,ماكرو جروب للمستحضرات الطبية-ماكرو كابيتال,EGS7D971C011,manual
+MFPC,Misr Fertilizers Production Company MOPCO,1.0,25,T0 / T1 / T2,Most Active | الأكثر نشاطا,Misr Fertilizers Production Company - Mopco,مصر لإنتاج الأسمدة - موبكو,EGS39061C014,fuzzy
+MICH,Misr Chemical Industries Ltd.,1.0,209,T0 / T1 / T2,Medium Activity | متوسط النشاط,Misr Chemical Industries,مصر لصناعة الكيماويات,EGS38211C016,fuzzy
+MILS,North Cairo Mills Co.,1.0,137,T0 / T1 / T2,Medium Activity | متوسط النشاط,North Cairo Mills,مطاحن ومخابز شمال القاهرة,EGS30361C017,fuzzy
+MOED,Egyptian Modern Education Systems,1.0,99,T0 / T1 / T2,Most Active | الأكثر نشاطا,The Egyptian Modern Education Systems,المصرية لنظم التعليم الحديثة,EGS729F1C012,fuzzy
+MOSC,Misr Oils & Soap Co.,1.0,151,T0 / T1 / T2,Medium Activity | متوسط النشاط,Misr Oils & Soap,مصر للزيوت و الصابون,EGS38421C011,fuzzy
+MPCI,Memphis Pharmaceutical & Chemical Industries,,60,T0 / T1 / T2,Most Active | الأكثر نشاطا,Memphis Pharmaceuticals,ممفيس للادوية والصناعات الكيماوية,EGS38351C010,manual
+MPCO,Mansourah Poultry Co.,1.0,67,T0 / T1 / T2,Most Active | الأكثر نشاطا,Mansourah Poultry,المنصورة للدواجن,EGS02091C014,fuzzy
+MTIE,MM Group for Industry & International Trade,1.0,41,T0 / T1 / T2,Most Active | الأكثر نشاطا,MM Group For Industry And International Trade,ام.ام جروب للصناعة والتجارة العالمية,EGS75011C014,fuzzy
+NCCW,Nasr Co. for Civil Works,1.0,85,T0 / T1 / T2,Most Active | الأكثر نشاطا,Nasr Company for Civil Works,شركة النصر للأعمال المدنية,EGS23111C015,fuzzy
+NINH,Nozha International Hospital,1.0,183,T0 / T1 / T2,Medium Activity | متوسط النشاط,Nozha International Hospital,مستشفى النزهه الدولي,EGS72011C017,fuzzy
+OBRI,El Obour Real Estate Investment,1.0,68,T0 / T1 / T2,Most Active | الأكثر نشاطا,El Obour Real Estate Investment,العبور للاستثمار العقارى,EGS65551C011,fuzzy
+OCPH,October Pharma Co.,1.0,147,T0 / T1 / T2,Medium Activity | متوسط النشاط,October Pharma,اكتوبر فارما,EGS380R1C018,fuzzy
+POUL,Cairo Poultry Co.,1.0,45,T0 / T1 / T2,Most Active | الأكثر نشاطا,Cairo Poultry,القاهرة للدواجن,EGS02051C018,fuzzy
+PRCL,General Co. for Ceramic & Porcelain Products,,74,T0 / T1 / T2,Most Active | الأكثر نشاطا,Ceramic & Porcelain,العامة لمنتجات الخزف والصيني,EGS3C111C019,manual
+RREI,Arab Real Estate Investment Co.,,109,T0 / T1 / T2,Medium Activity | متوسط النشاط,Arab Real Estate Investment CO.-ALICO,الاستثمار العقاري العربي - اليكو,EGS65011C016,manual
+RUBX,Rubex International for Plastic & Acrylic Manufacturing,1.0,152,T0 / T1 / T2,Medium Activity | متوسط النشاط,Rubex International for Plastic and Acrylic Manufacturing,روبكس العالميه لتصنيع البلاستيك والاكريلك,EGS3A221C018,fuzzy
+SAUD,Al Baraka Bank Egypt,1.0,208,T0 / T1 / T2,Medium Activity | متوسط النشاط,Al Baraka Bank Egypt,بنك البركة مصر,EGS60101C010,fuzzy
+SCEM,Sinai Cement Co.,1.0,63,T0 / T1 / T2,Most Active | الأكثر نشاطا,Sinai Cement,اسمنت سيناء,EGS3C401C014,fuzzy
+SIPC,Sabaa International Company for Pharmaceutial and Chemical Industry,,90,T0 / T1 / T2,Most Active | الأكثر نشاطا,Sabaa International Company for Pharmaceutical and Chemical,سبأ الدولية للأدوية والصناعات الكيماوية,EGS382M1C011,manual
+SKPC,Sidi Kerir Petrochemicals,,19,T0 / T1 / T2,Most Active | الأكثر نشاطا,Sidi Kerir Petrochemicals - SIDPEC,سيدى كرير للبتروكيماويات - سيدبك,EGS380S1C017,manual
+SMFR,Samad Misr-EGYFERT,1.0,158,T0 / T1 / T2,Medium Activity | متوسط النشاط,Samad Misr -EGYFERT,سماد مصر (ايجيفرت),EGS51191C012,fuzzy
+SPIN,Alexandria Spinning & Weaving,,143,T0 / T1 / T2,Medium Activity | متوسط النشاط,Alexandria Spinning & Weaving (SPINALEX),الاسكندرية للغزل والنسيج (سبينالكس),EGS32041C013,manual
+SPMD,Speed Medical SAE,1.0,189,T0 / T1 / T2,Medium Activity | متوسط النشاط,Speed Medical,سبيد ميديكال,EGS73BR1C013,fuzzy
+TALM,Taaleem Management Services S.A.E,1.0,95,T0 / T1 / T2,Most Active | الأكثر نشاطا,Taaleem Management Services,تعليم لخدمات الإدارة,EGS597R1C017,fuzzy
+TANM,Tanmiya for Real Estate Investment,1.0,86,T0 / T1 / T2,Most Active | الأكثر نشاطا,Tanmiya for Real Estate Investment,تنمية للاستثمار العقاري,EGS21EB1C011,fuzzy
+UEFM,Upper Egypt Flour Mills Co.,1.0,142,T0 / T1 / T2,Medium Activity | متوسط النشاط,Upper Egypt Flour Mills,مطاحن مصر العليا,EGS30451C016,fuzzy
+VERT,Vertika for Industry & Trade,1.0,218,T0 / T1 / T2,SMEs Tamayuz | تميز,Vertika for Industry & Trade,فرتيكا للصناعة و التجارة,EGS74801C019,fuzzy
+ZEOT,Extracted Oils & Derivatives Co.,,101,T0 / T1 / T2,Most Active | الأكثر نشاطا,Extracted Oils,الزيوت المستخلصة ومنتجاتها,EGS38251C012,manual

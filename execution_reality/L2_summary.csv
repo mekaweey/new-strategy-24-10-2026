@@ -1,0 +1,2 @@
+﻿sample,days,symbols,rows,crossed_rows,positive_rows,spread_bps_median,spread_bps_p90,depth_best_median,note
+11:00 UTC (14:00 Cairo) snapshot rows,22,2,37736,6815,30921,66.44518272425256,133.33333333333346,958300.0,2026 only; MCRO/AALR only; not used to fit the backtest

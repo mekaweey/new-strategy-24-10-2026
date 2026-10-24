@@ -1,0 +1,2 @@
+﻿master_rows,master_symbols,master_start,master_end,t1_symbols,t1_rows_2022_2026,expected_t1_sessions,missing_sessions_total,missing_pct_weighted,duplicate_dates_total,zero_price_rows_total,extreme_ret_gt_25pct_total,zero_volume_rows_total,stale_close_rows_total,corporate_action_days_total,feature_rows,feature_symbols,feature_exact_ok,feature_market1400_days
+998907,318,1997-02-12,2026-10-20,69,78417,1161,1665,2.0791189031242974,0,0,19,86,5094,6,298587,71,74958,964

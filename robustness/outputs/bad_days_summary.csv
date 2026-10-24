@@ -1,0 +1,2 @@
+﻿definition,n_nights,avg_strategy_ret_pct,median_strategy_ret_pct,win_rate_pct,worst_strategy_ret_pct,total_net
+strategy night after T1 equal-weight previous session <= -3% (market proxy),16,0.515970855991088,0.4032559743309483,62.5,-0.8132999317078954,119815.27474663734

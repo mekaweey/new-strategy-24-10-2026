@@ -1,0 +1,22 @@
+{
+ "table": "orderbook_snapshots",
+ "date": "2026-08-26",
+ "cairoOffsetMinutes": 180,
+ "generatedAt": "2026-09-05T12:12:24.869Z",
+ "marketWideLateStart": false,
+ "symbols": [
+  {
+   "symbol": "MCRO",
+   "firstTickCairo": "09:57",
+   "lastTickCairo": "15:09",
+   "minutesFromOpen": -2,
+   "minutesBeforeClose": -39,
+   "totalRows": 8797,
+   "maxIntradayGapMinutes": 0.1,
+   "openReliable": true,
+   "closeReliable": true,
+   "fullSessionReliable": true,
+   "likelyReason": null
+  }
+ ]
+}

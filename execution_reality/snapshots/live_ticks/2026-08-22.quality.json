@@ -1,0 +1,22 @@
+{
+ "table": "live_ticks",
+ "date": "2026-08-22",
+ "cairoOffsetMinutes": 180,
+ "generatedAt": "2026-09-05T12:11:45.596Z",
+ "marketWideLateStart": true,
+ "symbols": [
+  {
+   "symbol": "COMI",
+   "firstTickCairo": "15:00",
+   "lastTickCairo": "15:00",
+   "minutesFromOpen": 300,
+   "minutesBeforeClose": -30,
+   "totalRows": 1,
+   "maxIntradayGapMinutes": 0,
+   "openReliable": false,
+   "closeReliable": true,
+   "fullSessionReliable": false,
+   "likelyReason": "late_extension_start"
+  }
+ ]
+}

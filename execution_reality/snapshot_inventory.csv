@@ -1,0 +1,105 @@
+﻿file,kind,date,bytes,data_rows,symbols,ts_min,ts_max
+live_ticks/2026-08-22.csv,live_ticks,2026-08-22,139,1,1,2026-08-22 12:00:00+00:00,2026-08-22 12:00:00+00:00
+live_ticks/2026-08-22.quality.json,live_ticks,2026-08-22,491,,,,
+live_ticks/2026-08-23.quality.json,live_ticks,2026-08-23,32032,,,,
+live_ticks/2026-08-24.csv.gz,live_ticks,2026-08-24,358231,20129,92,2026-08-24 07:00:15.181000+00:00,2026-08-24 11:29:06.047000+00:00
+live_ticks/2026-08-24.quality.json,live_ticks,2026-08-24,28976,,,,
+live_ticks/2026-08-25.csv.gz,live_ticks,2026-08-25,323725,18323,88,2026-08-25 07:00:19.032000+00:00,2026-08-25 11:27:17.302000+00:00
+live_ticks/2026-08-25.quality.json,live_ticks,2026-08-25,28065,,,,
+live_ticks/2026-08-26.quality.json,live_ticks,2026-08-26,29298,,,,
+live_ticks/2026-08-30.quality.json,live_ticks,2026-08-30,27739,,,,
+live_ticks/2026-08-31.csv.gz,live_ticks,2026-08-31,211897,11688,92,2026-08-31 08:22:40.509000+00:00,2026-08-31 11:29:10.026000+00:00
+live_ticks/2026-08-31.quality.json,live_ticks,2026-08-31,30065,,,,
+live_ticks/2026-09-01.csv.gz,live_ticks,2026-09-01,307694,17310,97,2026-09-01 06:56:08.602000+00:00,2026-09-01 11:29:16.303000+00:00
+live_ticks/2026-09-01.quality.json,live_ticks,2026-09-01,30617,,,,
+live_ticks/2026-09-02.quality.json,live_ticks,2026-09-02,30394,,,,
+live_ticks/2026-09-16.csv,live_ticks,2026-09-16,706,7,1,2026-09-16 06:55:48.788000+00:00,2026-09-16 11:39:50.645000+00:00
+live_ticks/2026-09-17.csv,live_ticks,2026-09-17,28932,295,12,2026-09-17 07:00:24.779000+00:00,2026-09-17 18:48:00.161000+00:00
+live_ticks/2026-09-20.csv,live_ticks,2026-09-20,71866,732,11,2026-09-20 06:07:53.237000+00:00,2026-09-20 12:07:01.425000+00:00
+live_ticks/2026-09-30.csv,live_ticks,2026-09-30,2188,22,11,2026-09-30 11:22:52.781000+00:00,2026-09-30 11:30:53.427000+00:00
+live_ticks/2026-10-01.csv,live_ticks,2026-10-01,36552,373,11,2026-10-01 09:03:48.639000+00:00,2026-10-01 11:55:11.771000+00:00
+live_ticks/2026-10-20.csv,live_ticks,2026-10-20,31467,321,11,2026-10-20 09:55:19.663000+00:00,2026-10-20 12:30:27.354000+00:00
+live_ticks/2026-10-21.csv,live_ticks,2026-10-21,1851896,12508,109,2026-10-21 09:18:50.543000+00:00,2026-10-21 13:08:46.113000+00:00
+live_ticks/deleted_ids_live_ticks_2026-08-30T14-45-17-692Z.json,live_ticks,2026-08-30,182419,,,,
+live_ticks/deleted_ids_live_ticks_2026-09-03T13-46-48-990Z.json,live_ticks,2026-09-03,724844,,,,
+live_ticks/deleted_ids_live_ticks_2026-09-07T14-00-07-774Z.json,live_ticks,2026-09-07,221393,,,,
+live_ticks/deleted_ids_live_ticks_2026-09-08T14-00-12-747Z.json,live_ticks,2026-09-08,262133,,,,
+live_ticks/deleted_ids_live_ticks_2026-09-09T14-00-20-243Z.json,live_ticks,2026-09-09,221633,,,,
+live_ticks/deleted_ids_live_ticks_2026-09-10T14-00-13-089Z.json,live_ticks,2026-09-10,216605,,,,
+live_ticks/deleted_ids_live_ticks_2026-09-11T14-00-12-402Z.json,live_ticks,2026-09-11,218417,,,,
+live_ticks/deleted_ids_live_ticks_2026-09-14T14-00-10-991Z.json,live_ticks,2026-09-14,228425,,,,
+live_ticks/deleted_ids_live_ticks_2026-09-15T14-00-12-839Z.json,live_ticks,2026-09-15,250853,,,,
+live_ticks/deleted_ids_live_ticks_2026-09-16T14-00-12-001Z.json,live_ticks,2026-09-16,428393,,,,
+live_ticks/deleted_ids_live_ticks_2026-09-17T14-00-06-749Z.json,live_ticks,2026-09-17,229,,,,
+live_ticks/deleted_ids_live_ticks_2026-09-18T14-00-05-491Z.json,live_ticks,2026-09-18,3687,,,,
+live_ticks/deleted_ids_live_ticks_2026-09-21T14-00-06-970Z.json,live_ticks,2026-09-21,8931,,,,
+live_ticks/deleted_ids_live_ticks_2026-10-01T14-00-09-404Z.json,live_ticks,2026-10-01,410,,,,
+live_ticks/deleted_ids_live_ticks_2026-10-02T14-00-07-744Z.json,live_ticks,2026-10-02,4623,,,,
+live_ticks/deleted_ids_live_ticks_2026-10-21T14-00-06-115Z.json,live_ticks,2026-10-21,3999,,,,
+live_ticks/deleted_ids_live_ticks_2026-10-22T14-00-08-586Z.json,live_ticks,2026-10-22,150245,,,,
+live_ticks/parquet/2026-08-23.parquet,live_ticks,2026-08-23,377763,20197,98,2026-08-22 12:00:00+00:00,2026-08-23 11:28:55.221000+00:00
+live_ticks/parquet/2026-08-24.parquet,live_ticks,2026-08-24,319666,20129,92,2026-08-24 07:00:15.181000+00:00,2026-08-24 11:29:06.047000+00:00
+live_ticks/parquet/2026-08-25.parquet,live_ticks,2026-08-25,288972,18323,88,2026-08-25 07:00:19.032000+00:00,2026-08-25 11:27:17.302000+00:00
+live_ticks/parquet/2026-08-26.parquet,live_ticks,2026-08-26,267133,16570,93,2026-08-26 07:00:16.774000+00:00,2026-08-26 11:26:58.285000+00:00
+live_ticks/parquet/2026-08-30.parquet,live_ticks,2026-08-30,248187,16124,88,2026-08-30 07:01:37.643000+00:00,2026-08-30 11:27:55.961000+00:00
+live_ticks/parquet/2026-08-31.parquet,live_ticks,2026-08-31,182755,11688,92,2026-08-31 08:22:40.509000+00:00,2026-08-31 11:29:10.026000+00:00
+live_ticks/parquet/2026-09-01.parquet,live_ticks,2026-09-01,276744,17310,97,2026-09-01 06:56:08.602000+00:00,2026-09-01 11:29:16.303000+00:00
+live_ticks/parquet/2026-09-02.parquet,live_ticks,2026-09-02,273604,17326,93,2026-09-02 07:11:42.290000+00:00,2026-09-02 11:29:16.670000+00:00
+live_ticks/parquet/2026-09-06.parquet,live_ticks,2026-09-06,285054,18437,97,2026-09-06 07:21:20.448000+00:00,2026-09-06 11:29:41.525000+00:00
+live_ticks/parquet/2026-09-07.parquet,live_ticks,2026-09-07,335995,21832,93,2026-09-07 06:56:44.113000+00:00,2026-09-07 11:26:41.877000+00:00
+live_ticks/parquet/2026-09-08.parquet,live_ticks,2026-09-08,287979,18457,97,2026-09-08 07:00:46.638000+00:00,2026-09-08 11:29:07.157000+00:00
+live_ticks/parquet/2026-09-09.parquet,live_ticks,2026-09-09,280411,18038,97,2026-09-09 07:00:32.924000+00:00,2026-09-09 11:27:47.072000+00:00
+live_ticks/parquet/2026-09-10.parquet,live_ticks,2026-09-10,283116,18189,88,2026-09-10 06:56:29.221000+00:00,2026-09-10 11:06:17.976000+00:00
+live_ticks/parquet/2026-09-13.parquet,live_ticks,2026-09-13,293482,19023,97,2026-09-13 07:05:59.614000+00:00,2026-09-13 11:28:48.056000+00:00
+live_ticks/parquet/2026-09-14.parquet,live_ticks,2026-09-14,323367,20892,94,2026-09-14 07:00:04.235000+00:00,2026-09-14 11:28:08.335000+00:00
+live_ticks/parquet/2026-09-15.parquet,live_ticks,2026-09-15,497525,35687,97,2026-09-08 07:00:46.638000+00:00,2026-09-15 11:28:06.090000+00:00
+orderbook_snapshots/2026-08-23.quality.json,orderbook_snapshots,2026-08-23,505,,,,
+orderbook_snapshots/2026-08-24.csv.gz,orderbook_snapshots,2026-08-24,172603,8826,1,2026-08-24 07:00:00.736000+00:00,2026-08-24 12:12:24.531000+00:00
+orderbook_snapshots/2026-08-24.quality.json,orderbook_snapshots,2026-08-24,484,,,,
+orderbook_snapshots/2026-08-25.csv.gz,orderbook_snapshots,2026-08-25,156282,8268,1,2026-08-25 07:00:12.937000+00:00,2026-08-25 11:52:21.541000+00:00
+orderbook_snapshots/2026-08-25.quality.json,orderbook_snapshots,2026-08-25,484,,,,
+orderbook_snapshots/2026-08-26.quality.json,orderbook_snapshots,2026-08-26,485,,,,
+orderbook_snapshots/2026-08-30.quality.json,orderbook_snapshots,2026-08-30,484,,,,
+orderbook_snapshots/2026-08-31.quality.json,orderbook_snapshots,2026-08-31,504,,,,
+orderbook_snapshots/2026-09-01.quality.json,orderbook_snapshots,2026-09-01,485,,,,
+orderbook_snapshots/2026-09-02.quality.json,orderbook_snapshots,2026-09-02,504,,,,
+orderbook_snapshots/2026-09-20.csv,orderbook_snapshots,2026-09-20,9364066,20522,1,2026-09-20 06:07:57.952000+00:00,2026-09-20 12:11:11.564000+00:00
+orderbook_snapshots/2026-09-30.csv,orderbook_snapshots,2026-09-30,54898,134,1,2026-09-30 11:30:39.693000+00:00,2026-09-30 11:33:02.623000+00:00
+orderbook_snapshots/2026-10-01.csv,orderbook_snapshots,2026-10-01,4050881,9624,1,2026-10-01 09:03:52.358000+00:00,2026-10-01 11:58:32.109000+00:00
+orderbook_snapshots/2026-10-20.csv,orderbook_snapshots,2026-10-20,3651403,8756,1,2026-10-20 09:55:05.767000+00:00,2026-10-20 12:31:08.270000+00:00
+orderbook_snapshots/2026-10-21.csv,orderbook_snapshots,2026-10-21,85202,67,1,2026-10-21 09:18:46.487000+00:00,2026-10-21 13:09:34.657000+00:00
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-08-30T14-50-27-202Z.json,orderbook_snapshots,2026-08-30,96924,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-09-03T14-01-25-973Z.json,orderbook_snapshots,2026-09-03,358186,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-09-07T14-02-25-967Z.json,orderbook_snapshots,2026-09-07,86045,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-09-08T14-01-34-039Z.json,orderbook_snapshots,2026-09-08,95527,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-09-09T14-07-02-461Z.json,orderbook_snapshots,2026-09-09,112622,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-09-10T14-07-10-618Z.json,orderbook_snapshots,2026-09-10,94427,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-09-11T14-02-07-872Z.json,orderbook_snapshots,2026-09-11,84215,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-09-14T14-00-56-198Z.json,orderbook_snapshots,2026-09-14,93277,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-09-15T14-01-28-584Z.json,orderbook_snapshots,2026-09-15,93565,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-09-16T14-02-49-170Z.json,orderbook_snapshots,2026-09-16,99901,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-09-17T14-00-12-936Z.json,orderbook_snapshots,2026-09-17,35029,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-09-18T14-01-57-878Z.json,orderbook_snapshots,2026-09-18,96049,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-09-21T14-02-45-417Z.json,orderbook_snapshots,2026-09-21,246422,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-10-01T14-00-14-127Z.json,orderbook_snapshots,2026-10-01,1764,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-10-02T14-01-25-026Z.json,orderbook_snapshots,2026-10-02,115645,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-10-21T14-02-33-527Z.json,orderbook_snapshots,2026-10-21,105229,,,,
+orderbook_snapshots/deleted_ids_orderbook_snapshots_2026-10-22T14-01-24-117Z.json,orderbook_snapshots,2026-10-22,959,,,,
+orderbook_snapshots/parquet/2026-08-23.parquet,orderbook_snapshots,2026-08-23,119255,6106,1,2026-08-23 09:21:52.427000+00:00,2026-08-23 12:32:09.844000+00:00
+orderbook_snapshots/parquet/2026-08-24.parquet,orderbook_snapshots,2026-08-24,181496,8826,1,2026-08-24 07:00:00.736000+00:00,2026-08-24 12:12:24.531000+00:00
+orderbook_snapshots/parquet/2026-08-25.parquet,orderbook_snapshots,2026-08-25,161312,8268,1,2026-08-25 07:00:12.937000+00:00,2026-08-25 11:52:21.541000+00:00
+orderbook_snapshots/parquet/2026-08-26.parquet,orderbook_snapshots,2026-08-26,173189,8797,1,2026-08-26 06:57:37.219000+00:00,2026-08-26 12:09:28.926000+00:00
+orderbook_snapshots/parquet/2026-08-30.parquet,orderbook_snapshots,2026-08-30,156495,7909,1,2026-08-30 07:01:36.690000+00:00,2026-08-30 11:41:30.734000+00:00
+orderbook_snapshots/parquet/2026-08-31.parquet,orderbook_snapshots,2026-08-31,130121,6456,1,2026-08-31 08:22:47.531000+00:00,2026-08-31 12:11:25.279000+00:00
+orderbook_snapshots/parquet/2026-09-01.parquet,orderbook_snapshots,2026-09-01,176290,8285,1,2026-09-01 06:57:37.378000+00:00,2026-09-01 11:51:04.543000+00:00
+orderbook_snapshots/parquet/2026-09-02.parquet,orderbook_snapshots,2026-09-02,190169,9898,1,2026-09-02 07:11:51.313000+00:00,2026-09-02 13:06:32.084000+00:00
+orderbook_snapshots/parquet/2026-09-06.parquet,orderbook_snapshots,2026-09-06,192002,7808,1,2026-09-06 07:21:20.147000+00:00,2026-09-06 11:57:12.439000+00:00
+orderbook_snapshots/parquet/2026-09-07.parquet,orderbook_snapshots,2026-09-07,193402,8670,1,2026-09-07 06:56:32.119000+00:00,2026-09-07 12:03:29.682000+00:00
+orderbook_snapshots/parquet/2026-09-08.parquet,orderbook_snapshots,2026-09-08,216373,10224,1,2026-09-08 07:00:46.566000+00:00,2026-09-08 13:03:53.010000+00:00
+orderbook_snapshots/parquet/2026-09-09.parquet,orderbook_snapshots,2026-09-09,203733,8570,1,2026-09-09 07:00:35.515000+00:00,2026-09-09 12:08:34.341000+00:00
+orderbook_snapshots/parquet/2026-09-10.parquet,orderbook_snapshots,2026-09-10,149546,7020,1,2026-09-10 06:56:18.981000+00:00,2026-09-10 11:06:19.199000+00:00
+orderbook_snapshots/parquet/2026-09-13.parquet,orderbook_snapshots,2026-09-13,162306,7760,1,2026-09-13 07:06:04.707000+00:00,2026-09-13 11:39:58.277000+00:00
+orderbook_snapshots/parquet/2026-09-14.parquet,orderbook_snapshots,2026-09-14,170251,7784,1,2026-09-14 06:58:56.810000+00:00,2026-09-14 11:33:58.368000+00:00
+orderbook_snapshots/parquet/2026-09-15.parquet,orderbook_snapshots,2026-09-15,186495,8312,1,2026-09-15 06:57:04.800000+00:00,2026-09-15 11:50:49.894000+00:00
+orderbook_snapshots/parquet/2026-09-16.parquet,orderbook_snapshots,2026-09-16,56975,2906,1,2026-09-16 06:55:35.514000+00:00,2026-09-16 12:38:44.181000+00:00
+orderbook_snapshots/parquet/2026-09-17.parquet,orderbook_snapshots,2026-09-17,161319,7991,2,2026-09-17 07:00:05.009000+00:00,2026-09-17 18:50:14.176000+00:00

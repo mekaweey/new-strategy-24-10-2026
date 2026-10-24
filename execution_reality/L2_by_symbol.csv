@@ -1,0 +1,3 @@
+﻿symbol,rows,days,spread_bps_median_rows,spread_bps_p90_rows,depth_best_median_rows,spread_bps_median_daily,depth_best_median_daily,crossed_rows
+AALR,5602,3,77.43040018676716,265.171930581007,404.0,265.171930581007,404.0,
+MCRO,25319,19,66.44518272425256,132.45033112582794,1294572.0,66.44518272425256,1203773.0,
