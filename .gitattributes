@@ -1,1 +1,2 @@
+* -text
 *.parquet filter=lfs diff=lfs merge=lfs -text
