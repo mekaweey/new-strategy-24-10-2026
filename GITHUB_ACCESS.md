@@ -2,14 +2,14 @@
 
 This repository is an uncompressed upload of the audit package. The files are at the repository root.
 
-## الملفان الكبيران (Git LFS)
+## ملفات Git LFS
 
-GitHub rejects normal files larger than 100 MB, so these two files are stored with Git LFS:
+GitHub rejects normal files larger than 100 MB, so all `*.parquet` files here are stored with Git LFS (38 files). The two largest are:
 
 - `data_raw/egx_master_daily.parquet` — 109,842,794 bytes
 - `data_derived/features_v3_71.parquet` — 106,678,213 bytes
 
-If you use `raw.githubusercontent.com`, you will receive a 134-byte LFS pointer, **not** the data. Use one of these methods:
+If you use `raw.githubusercontent.com` for any `.parquet` file, you will receive a 134-byte LFS pointer, **not** the data. Use one of these methods:
 
 ### 1. Clone with Git LFS
 
